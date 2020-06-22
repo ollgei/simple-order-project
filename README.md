@@ -1,2 +1,2 @@
-# simple-order-project
-test order for microservices
+# simple-stock-project
+test stock for microservices
